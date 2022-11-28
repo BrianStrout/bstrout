@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bstrout my friends (and you) call me Strout (if you like.)
+- 👋 Hi, I’m Brian Strout and am on the earlier side of journey into webdevelopment.
 - 👀 I’m interested in music production and programming(new)
-- 🌱 I’m currently learning JavaScript via The Odin Project.
+- 🌱 I’m currently learning via The Odin Project.
